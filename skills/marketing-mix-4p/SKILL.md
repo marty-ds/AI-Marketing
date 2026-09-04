@@ -1,6 +1,6 @@
 ---
 name: marketing-mix-4p
-description: Quand l'utilisateur veut CONSTRUIRE son mix marketing : concevoir le produit, fixer le prix, choisir la distribution. Utilise aussi quand il dit « mix marketing », « plan opérationnel », « comment fixer mon prix », « quel prix vendre », « prix de vente », « marge », « prix psychologique », « niveau de gamme », « où vendre mon produit », « quel circuit de distribution », « quelle enseigne », « distribution intensive sélective exclusive », « pop-up store », « flagship », « concept store », « créer mon packaging », ou « quels services proposer ». Ce skill DÉCIDE le mix. Pour observer un mix existant, voir `marketing-audit-4p`. Pour le P-Promo et la campagne de communication, voir `marketing-plan-communication`. Pour le positionnement qui commande tout, voir `marketing-positionnement`.
+description: Quand l'utilisateur veut CONSTRUIRE son mix marketing : concevoir le produit, fixer le prix, choisir la distribution. Utilise aussi quand il dit « mix marketing », « plan opérationnel », « comment fixer mon prix », « quel prix vendre », « prix de vente », « marge », « prix psychologique », « niveau de gamme », « où vendre mon produit », « quel circuit de distribution », « quelle enseigne », « distribution intensive sélective exclusive », « pop-up store », « flagship », « concept store », « créer mon packaging », ou « quels services proposer ». Ce skill DÉCIDE le mix d'un PRODUIT physique. Pour un service, ce sont 7P : voir `marketing-service`. Pour observer un mix existant, voir `marketing-audit-4p`. Pour le P-Promo, voir `marketing-plan-communication`. Pour le positionnement qui commande tout, voir `marketing-positionnement`.
 metadata:
   version: 1.0.0
 ---
@@ -12,6 +12,19 @@ actions.
 
 Ce skill couvre le **P-Produit**, le **P-Prix** et le **P-Place**. Le **P-Promo** est traité
 dans `marketing-plan-communication`, parce qu'il compte 8 étapes à lui seul.
+
+> ## ⚠️ Produit ou service ?
+>
+> **Ce skill construit les 4P d'un produit physique.**
+>
+> Si l'activité est un **service** — restaurant, hôtel, salon, cabinet, agence, coach,
+> assurance, formation, transport — ce sont **7P**, pas 4P. Les 3 P en plus sont **Physical
+> evidence** (la serviscène), **Process** (la servuction et le blueprint) et **Personnel**.
+>
+> → Utilise **`marketing-service`** à la place.
+>
+> **Comment reconnaître un service :** le client est présent pendant la production, rien ne se
+> stocke, et le personnel fait partie du produit.
 
 ---
 

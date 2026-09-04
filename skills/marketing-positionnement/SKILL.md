@@ -115,6 +115,23 @@ Un axe. Deux au maximum.
 
 Au-delà de deux axes, le positionnement n'est plus simple, donc plus perçu.
 
+### Les axes propres au service
+
+Si l'entreprise vend un **service** et non un produit physique, les axes se formulent
+autrement :
+
+| Axe | Ce qu'on met en avant |
+|---|---|
+| **La qualité** | La fiabilité, la constance du service rendu |
+| **Le prix** | Le niveau de gamme assumé |
+| **Les avantages** | Les services additionnels qui différencient |
+| **L'expérience client** | Le **vécu**, pas seulement le résultat |
+| **L'innovation** | Ce que personne d'autre ne propose encore |
+| **La durabilité** | L'engagement environnemental et social |
+
+L'**expérience client** est souvent le meilleur axe pour un service : c'est celui que les
+concurrents copient le moins vite. Voir `marketing-service`.
+
 ---
 
 ## Étape 3 — Le mapping

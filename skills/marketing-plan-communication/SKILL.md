@@ -1,6 +1,6 @@
 ---
 name: marketing-plan-communication
-description: Quand l'utilisateur veut construire une campagne ou un plan de communication marketing : quoi dire, à qui, comment, sur quels canaux, quand, avec quel budget, et comment mesurer. Utilise aussi quand il dit « plan de communication », « campagne marketing », « P-Promo », « stratégie de communication », « quels canaux utiliser », « où communiquer », « quel message », « quel ton adopter », « planning de campagne », « budget communication », « above the line », « below the line », « POEM », « paid owned earned », « mesurer ma campagne », « post-test », ou « lancer mon produit ». Pour le produit, le prix et la distribution, voir `marketing-mix-4p`. Pour la cible et le positionnement à communiquer, voir `marketing-ciblage-persona` et `marketing-positionnement`.
+description: Quand l'utilisateur veut construire une campagne ou un plan de communication marketing : quoi dire, à qui, comment, sur quels canaux, quand, avec quel budget, et comment mesurer. Utilise aussi quand il dit « plan de communication », « campagne marketing », « P-Promo », « stratégie de communication », « brief agence », « objectif SMART », « See Think Do Care », « funnel de conversion », « key message », « quels canaux utiliser », « quel message », « quel ton adopter », « planning de campagne », « budget communication », « above the line », « below the line », « POEM », « paid owned earned », « communication responsable », « greenwashing », « mesurer ma campagne », « post-test », ou « lancer mon produit ». C'est la stratégie qui commande tous les canaux. Pour exécuter en ligne, voir `marketing-digital` et `marketing-referencement`. Pour la TV, la radio et l'affichage, voir `marketing-medias-de-masse`.
 metadata:
   version: 1.0.0
 ---
@@ -26,6 +26,72 @@ Il te faut, dans cet ordre :
 
 La communication vient **en dernier**. Elle fait connaître ce qui existe déjà. Communiquer
 avant d'avoir arrêté le produit, le prix et la distribution mène à des promesses intenables.
+
+---
+
+## La communication intégrée
+
+> **Communication intégrée** : communication utilisant **plusieurs canaux différents qui
+> travaillent en synergie**, et dont on a veillé à la **cohérence de fond et de forme** des
+> messages véhiculés par ces multiples canaux.
+>
+> = communication **omnicanale** = communication **360°**
+
+C'est la règle qui tient tout le plan : un seul message, décliné, jamais contredit.
+
+Ce skill décide la **stratégie**. L'exécution se fait ensuite dans les skills de canaux :
+
+| Canal | Skill |
+|---|---|
+| Site web, contenu, réseaux sociaux, influence, emailing, mesure | `marketing-digital` |
+| Google : SEO, SEA, et visibilité dans les IA | `marketing-referencement` |
+| TV, cinéma, radio, affichage, presse, display | `marketing-medias-de-masse` |
+
+---
+
+## Le funnel See — Think — Do — Care
+
+Le fil rouge de tout le plan. Il relie les objectifs classiques aux étapes vécues par le client.
+
+| Objectif classique | Étape | Ce que le client fait | Type de conversion |
+|---|---|---|---|
+| **Cognitif** — faire connaître | **SEE** | Il découvre | — |
+| **Affectif** — faire aimer | **THINK** | Il s'informe, il désire | **Micro-conversion** |
+| **Comportemental** — faire agir | **DO** | Il achète | **Macro-conversion** |
+| **Comportemental** — fidéliser | **CARE** | Il rachète, il recommande | **Macro-conversion** |
+
+| | Définition | Exemples |
+|---|---|---|
+| **Micro-conversion** | Une petite action, côté THINK | Inscription à une newsletter, lecture d'un article |
+| **Macro-conversion** | L'action qui compte, côté DO et CARE | Achat ou rachat d'un produit ou service |
+
+> **Funnel de conversion** : découper les différentes étapes du processus d'achat d'un client.
+>
+> **Lead** : prospect qui a manifesté son intérêt pour un produit ou service de l'entreprise, et
+> à propos duquel on possède les informations nécessaires pour le transformer en client.
+
+---
+
+## Le brief-agence
+
+Que l'on travaille avec une agence ou seul, ce document oblige à tout décider. **À écrire en
+une page.** Les 9 rubriques :
+
+| # | Rubrique | Où elle se décide |
+|---|---|---|
+| **1** | Le **contexte de la marque** | L'analyse et le SWOT |
+| **2** | Les **objectifs de la campagne** | Étape 2 ci-dessous, en SMART |
+| **3** | La **cible** — persona et parcours client | Étape 1 |
+| **4** | Le **message** | Étape 3 |
+| **5** | Les **KPI et la mesure** | Étape 8 |
+| **6** | Les **médias** | Étape 5 |
+| **7** | La **personnalité et le ton** | Étape 4 |
+| **8** | Le **budget et les mentions obligatoires** | Étape 7 |
+
+**L'organigramme d'une agence**, pour savoir à qui parler : Direction générale → **Création**
+(directeur de création, AD illustrations, copy textes) · **Clients** (account manager) ·
+**Strategic** (strategic planner — le lien entre l'annonceur et l'agence) · **Média** (media
+planneur, acheteur média) · **Production** (chef de production, studio).
 
 ---
 
@@ -67,11 +133,52 @@ n'en atteint aucun.
 
 On ne saute pas d'étape. Une promotion agressive sur une marque inconnue ne marche pas.
 
+### Écrire l'objectif en SMART
+
+Un objectif qui ne se mesure pas ne se pilote pas.
+
+| Lettre | Question |
+|---|---|
+| **S** — Specific | La cible est-elle bien définie et claire ? |
+| **M** — Measurable | Êtes-vous capable de savoir si vous avez atteint votre objectif ? |
+| **A** — Acceptable | Est-ce acceptable pour toutes les parties prenantes ? |
+| **R** — Realistic | Est-ce réalisable avec les ressources, connaissances et temps disponibles ? |
+| **T** — Time-based | Y a-t-il une échéance claire ? |
+
+> *Exemple : « Générer 25 % de leads supplémentaires par l'intermédiaire de votre site internet
+> cette année, comparativement à l'année dernière. »*
+
+Vérifie ensuite avec les **KPI** de l'étape 8.
+
 ---
 
 ## Étape 3 — Le message
 
 Trouve un message qui **reflète le positionnement du produit et son axe de différenciation**.
+
+> **Key message** : le fil conducteur de la campagne.
+> **Sous-messages** : spécifiques à chaque étape — SEE, THINK, DO, CARE.
+
+### Les 5 rubriques d'un message
+
+| Rubrique | Ce que c'est |
+|---|---|
+| **L'insight consommateur** | Ce que le consommateur ressent, ce qu'il pense, et **pourquoi** |
+| **Le message** | Le **bénéfice consommateur** mis en avant |
+| **La preuve** | La justification, le « reason why » qui crédibilise le message : caractéristiques du produit ou service, performance, taux de satisfaction, slogan, logo, nom de marque, valeurs |
+| **Le ton** | Le ton entourant le message : explicatif, informatif, humoristique, imaginaire |
+| **La charte graphique** | Les couleurs (3 à 5) et les polices d'écriture (2 à 3) |
+
+### Rédiger un message — le modèle BEST
+
+| Lettre | Question | Ce que ça donne | Exemple |
+|---|---|---|---|
+| **B** — Behavioral | Quel comportement est attendu du prospect ? | Le **call to action**, pour favoriser la micro ou macro-conversion : RDV, partager, liker, acheter, commenter | « Activez votre essai gratuit de 15 jours maintenant » |
+| **E** — Essentiel | Quelles infos sont pertinentes et utiles pour la cible, dans son contexte ? | Le **fond** du message | « Explique la différence entre café de spécialité et café de supermarché » |
+| **S** — Strategic | Le contenu est-il cohérent avec le key message, et se démarque-t-il de la concurrence ? | La **créativité** | « L'excellence du barista, directement chez vous » |
+| **T** — Targeted | Le contenu utilise-t-il le vocabulaire et les formats de la cible ? | La **forme** : texte, image, vidéo, son | Gen Z → TikTok |
+
+Le modèle BEST sert aussi à écrire chaque page du site et chaque email.
 
 **Contrôles :**
 
@@ -80,8 +187,8 @@ Trouve un message qui **reflète le positionnement du produit et son axe de diff
 - [ ] Un concurrent ne pourrait pas signer le même message.
 - [ ] Il se retient après une seule lecture.
 
-Écris-le en une phrase. Si tu as besoin de trois phrases, le positionnement n'est pas assez
-simple : retourne à `marketing-positionnement`.
+Écris le key message en une phrase. Si tu as besoin de trois phrases, le positionnement n'est
+pas assez simple : retourne à `marketing-positionnement`.
 
 ---
 
@@ -144,6 +251,17 @@ Classe aussi ta campagne en Paid / Owned / Earned. Voir
 Un plan qui n'a que du paid s'arrête quand le budget s'arrête. Un plan qui n'a que de l'owned
 ne touche que ceux qui viennent déjà. Vise les trois.
 
+### POEM croisé avec le funnel
+
+C'est le tableau qui sert vraiment à choisir. **Le choix se fait EN FONCTION DE L'OBJECTIF.**
+
+| Étape | ONLINE | OFFLINE |
+|---|---|---|
+| **Conscience (SEE)** | Marketing d'influence, SEO/SEA, pub sur médias sociaux, pub via email | Relations presse, radio, OOH, cinéma, TV |
+| **Intérêt / désir (THINK)** | Emailing, site web et e-commerce, pages des médias sociaux, display | Courrier postal, radio, OOH, print |
+| **Action (DO)** | Site e-commerce, SEA, display, emailing et SMS | Télémarketing, promotion des ventes, magasin |
+| **Fidélisation (CARE)** | Applications mobiles, display, emailing et SMS, blog | Carte de fidélité, événements, programme de fidélité, parrainage |
+
 ### Comment choisir
 
 1. **Où se trouve le cœur de cible ?** Reprends le persona : où il s'informe, qui il écoute.
@@ -151,6 +269,16 @@ ne touche que ceux qui viennent déjà. Vise les trois.
    demande de la proximité de l'achat (promotion des ventes, PLV, marketing direct).
 3. **Quel budget ?** Voir l'étape 7.
 4. **Combien de canaux ?** Trois bien tenus valent mieux que huit survolés.
+
+### Passer à l'exécution
+
+Une fois les canaux choisis, l'exécution se fait ailleurs :
+
+| Canaux retenus | Skill à utiliser ensuite |
+|---|---|
+| Site, contenu, réseaux sociaux, influence, emailing, SMS, CRM, mesure | `marketing-digital` |
+| Google : SEO, SEA, visibilité dans les IA | `marketing-referencement` |
+| TV, cinéma, radio, OOH, presse, display — et le calcul de la pression publicitaire | `marketing-medias-de-masse` |
 
 ---
 
@@ -166,6 +294,19 @@ Quatre éléments à croiser :
 | **Définir une période** | Sur combien de semaines la campagne court-elle ? |
 
 Livre un calendrier lisible : une ligne par canal, une colonne par semaine ou par mois.
+
+### Média planning et plan média
+
+| | Définition |
+|---|---|
+| **Média planning** | L'ensemble des opérations qui visent à **étudier et sélectionner** les différents médias et supports nécessaires à la diffusion d'un message publicitaire efficace et **au meilleur coût** |
+| **Plan média** | Le **résumé des choix** : outils et supports utilisés, formats retenus, périodes pendant lesquelles chaque outil sera utilisé, dans les limites d'un budget donné |
+
+Les 4 choix successifs :
+
+```
+Choix des outils → Choix des supports → Choix des formats → Choix de la ou des périodes
+```
 
 ---
 
@@ -213,6 +354,24 @@ Fais correspondre l'indicateur à l'objectif de l'étape 2 :
 | Affectif | Attribution à la marque, évolution des attitudes, préférence déclarée |
 | Comportemental | Ventes, essais, trafic en point de vente, ROI |
 
+Les KPI détaillés canal par canal sont dans le skill `marketing-digital` pour le numérique, et
+dans `marketing-medias-de-masse` pour la pression publicitaire offline (couverture, OTS, GRP).
+
+---
+
+## La communication responsable
+
+À intégrer dans le plan, pas à ajouter à la fin.
+
+| Levier | Ce que c'est | Exemple d'action |
+|---|---|---|
+| **Sobriété éditoriale** | Repenser le plan de communication : **réduire la quantité** de contenu produit pour éviter la surcharge d'informations. Privilégier la qualité et la pertinence des messages. | Une entreprise de mode durable réduit ses publications à une fois par semaine, en mettant en avant des histoires inspirantes et des conseils pratiques |
+| **Contenus responsables** | Éviter le **greenwashing** : une promesse **exacte, proportionnée et pertinente**. Promouvoir des imaginaires responsables et durables, en luttant contre les stéréotypes discriminants ou les stéréotypes de consommation. | Une marque mentionne que son produit est « plus respectueux », plutôt qu'« il sauve la planète ». Une marque de vêtements présente ses produits en respectant la diversité et la mixité des publics. |
+| **Écoconception des actions** | Optimiser les supports et méthodes de diffusion respectueux de l'environnement. Minimiser l'empreinte écologique des supports. | Une entreprise lance une campagne en utilisant uniquement des supports numériques et des serveurs alimentés par des énergies renouvelables |
+
+**Le test anti-greenwashing :** peux-tu prouver la promesse par un fait vérifiable ? Si non,
+réduis la promesse jusqu'à ce que tu le puisses.
+
 ---
 
 ## Pièges à éviter
@@ -229,15 +388,23 @@ Fais correspondre l'indicateur à l'objectif de l'étape 2 :
 | Ne faire que du paid | Sans owned ni earned, tout s'arrête avec le budget |
 | Oublier les salaires internes dans le budget | C'est un poste réel |
 | Choisir les indicateurs après la campagne | Définis-les avant |
+| Écrire un objectif non mesurable | SMART : le M et le T ne sont pas optionnels |
+| Changer de message selon le canal | Communication intégrée : cohérence de fond **et** de forme |
+| Confondre média planning et plan média | Le premier est le travail, le second est le document |
+| Promettre plus que ce qu'on peut prouver | Le greenwashing se retourne contre la marque |
 
 ---
 
 ## Le livrable
 
+Si l'utilisateur travaille avec une agence, livre **d'abord le brief-agence en une page** (les
+9 rubriques), puis le plan détaillé ci-dessous.
+
 ```markdown
 ## Plan de communication
 
 **Positionnement de référence :** « La ... propose ... qui permet à ... de ... »
+**Objectif SMART :** « ... »
 
 ### 1. Cible de communication
 <qui, et en quoi elle diffère de la cible marketing>

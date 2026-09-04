@@ -1,6 +1,6 @@
 ---
 name: marketing-audit-4p
-description: Quand l'utilisateur veut décrire ou auditer le mix marketing existant d'une entreprise, d'une marque ou d'un concurrent : le produit, le prix, la distribution et la communication tels qu'ils sont aujourd'hui. Utilise aussi quand il dit « audit des 4P », « analyse le mix marketing », « marketing opérationnel », « analyse le packaging », « gamme largeur profondeur », « store-check », « relever les prix », « comment il distribue », « circuit de distribution », « analyse cette publicité », « que fait mon concurrent », ou quand il partage une fiche produit, un packaging ou une pub à décortiquer. Ce skill OBSERVE l'existant. Pour décider un nouveau mix, voir `marketing-mix-4p` et `marketing-plan-communication`. Pour la cible et le positionnement, voir `marketing-audit-stp`.
+description: Quand l'utilisateur veut décrire ou auditer le mix marketing existant d'une entreprise, d'une marque ou d'un concurrent : le produit, le prix, la distribution et la communication tels qu'ils sont aujourd'hui. Utilise aussi quand il dit « audit des 4P », « analyse le mix marketing », « marketing opérationnel », « analyse le packaging », « gamme largeur profondeur », « store-check », « relever les prix », « comment il distribue », « circuit de distribution », « analyse cette publicité », « que fait mon concurrent », ou quand il partage une fiche produit, un packaging ou une pub à décortiquer. Ce skill OBSERVE l'existant d'un PRODUIT physique. Pour un service, ce sont 7P : voir `marketing-service`. Pour décider un nouveau mix, voir `marketing-mix-4p` et `marketing-plan-communication`. Pour la cible et le positionnement, voir `marketing-audit-stp`.
 metadata:
   version: 1.0.0
 ---
@@ -13,6 +13,19 @@ Tu décris le mix marketing **tel qu'il existe aujourd'hui**. Produit, prix, pla
 > faire. Les décisions viennent après le SWOT, dans `marketing-mix-4p`.
 
 Ce skill sert aussi à auditer **un concurrent**. La grille est la même.
+
+> ## ⚠️ Produit ou service ?
+>
+> **Ce skill couvre les 4P d'un produit physique.**
+>
+> Si l'activité est un **service** — restaurant, hôtel, salon, cabinet, agence, coach,
+> assurance, formation, transport — ce sont **7P**, pas 4P. Les 3 P en plus sont **Physical
+> evidence**, **Process** et **Personnel**.
+>
+> → Utilise **`marketing-service`** à la place.
+>
+> **Comment reconnaître un service :** le client est présent pendant la production, rien ne se
+> stocke, et le personnel fait partie du produit.
 
 ---
 

@@ -1,6 +1,17 @@
-# La méthode complète
+# La méthode complète — marketing général
 
-Toute la méthode du mindmap, sur une page. C'est la source de vérité des 13 skills.
+Toute la méthode du mindmap, sur une page.
+
+## Les 4 documents de méthode
+
+| Document | Ce qu'il couvre | Skills qu'il alimente |
+|---|---|---|
+| **`methode.md`** — vous êtes ici | Le marketing général : problématique, étude interne et externe, SWOT, recommandations, les 4P | Les 8 skills du tronc commun |
+| [`methode-etude-de-marche.md`](methode-etude-de-marche.md) | Comment **mener** l'étude : tableau méthodologique, desk, qualitatif, quantitatif | `marketing-etude-de-marche` |
+| [`methode-service.md`](methode-service.md) | Ce qui change quand on vend un **service** : les 7P, le parcours client, la servuction, ServQual | `marketing-service` |
+| [`methode-digital.md`](methode-digital.md) | Le **digital** : brief-agence, See-Think-Do-Care, site web, SEO/SEA/GEO, réseaux sociaux, influence, médias de masse, emailing, analytics | `marketing-digital`, `marketing-referencement`, `marketing-medias-de-masse` |
+
+---
 
 > **Fil rouge.** Une problématique → une étude → des recommandations. Chaque élément du SWOT
 > doit répondre à la problématique. Chaque recommandation doit sortir du SWOT. Si le lien

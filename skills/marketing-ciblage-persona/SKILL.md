@@ -158,6 +158,30 @@ Marque clairement ce qui est une hypothèse.
 
 Un persona par cœur de cible. Deux au maximum. Au-delà, plus personne ne s'en sert.
 
+### Le persona en B2B ou pour un service — les 10 points
+
+Quand on vend à une entreprise, ou quand on vend un service, la fiche change. Utilise cette
+structure :
+
+| # | Point | Ce qu'on écrit |
+|---|---|---|
+| **1** | **Socio-démographique de l'entreprise** | Taille, canal favori, zone géographique |
+| **2** | **Son quotidien** | Sa journée, avec ses problèmes |
+| **3** | **Ses besoins** | L'objectif à atteindre, **à titre personnel**. Utilise les **5 pourquoi** pour descendre au vrai besoin. |
+| **4** | **Ses frustrations** | Ce qui l'énerve aujourd'hui |
+| **5** | **Pourquoi il utilise notre offre** | Un pitch en une phrase : **quoi, comment, avec qui, en combien de temps** |
+| **6** | **Ses objections d'achat** | Ce qu'il dira pour ne pas signer |
+| **7** | **Ce qui influence ses achats** | Avant l'achat, et pendant l'achat |
+| **8** | **Ses fausses croyances** | Ce qu'il croit à tort sur la catégorie |
+| **9** | **Ses alternatives** | Ce qu'il fait aujourd'hui à la place |
+
+Le point 3 est le plus important : en B2B, la personne poursuit **un objectif personnel** (ne
+pas se tromper, être reconnue, gagner du temps) derrière l'objectif officiel de l'entreprise.
+
+**Pour un service**, les critères de segmentation qui comptent le plus sont les critères
+**comportementaux** et les **avantages recherchés**. Et le persona sert ensuite à cartographier
+le **parcours client** — un parcours par persona. Voir `marketing-service`.
+
 ---
 
 ## Pièges à éviter

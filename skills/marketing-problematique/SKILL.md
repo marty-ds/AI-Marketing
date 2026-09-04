@@ -1,6 +1,6 @@
 ---
 name: marketing-problematique
-description: Quand l'utilisateur doit transformer un constat flou en question de recherche marketing, ou doit décider quelles informations chercher et où. Utilise aussi quand il dit « quel est mon problème marketing », « je ne sais pas quelle question poser », « par où commencer », « quelle étude faire », « étude qualitative ou quantitative », « comment récolter l'info », « sources d'information », « faut-il faire un sondage », ou quand il décrit un symptôme business flou (« ça ne marche pas », « les ventes baissent », « personne ne me connaît »). Couvre aussi la typologie convenience / shopping / speciality goods. Pour l'analyse complète qui suit, voir `marketing-plan-complet`.
+description: Quand l'utilisateur doit transformer un constat flou en question de recherche marketing, ou doit décider quelles informations chercher et où. Utilise aussi quand il dit « quel est mon problème marketing », « je ne sais pas quelle question poser », « par où commencer », « quelle étude faire », « étude qualitative ou quantitative », « comment récolter l'info », « sources d'information », « faut-il faire un sondage », ou quand il décrit un symptôme business flou (« ça ne marche pas », « les ventes baissent », « personne ne me connaît »). Couvre aussi les 8 critères d'une bonne problématique, le tableau méthodologique et la typologie convenience / shopping / speciality goods. Pour mener l'étude ensuite (entretiens, questionnaire, échantillon), voir `marketing-etude-de-marche`. Pour l'analyse complète, voir `marketing-plan-complet`.
 metadata:
   version: 1.0.0
 ---
@@ -49,13 +49,33 @@ La problématique est une **question ouverte**, qui commence en général par *C
 >
 > **Problématique :** Comment augmenter la notoriété de mon produit et le faire connaître ?
 
-**Contrôles :**
+### Les 8 critères d'une bonne problématique
+
+| # | Critère | Contrôle |
+|---|---|---|
+| 1 | **Dissocier contexte et problématique** | Le contexte décrit la situation. La problématique pose la question. |
+| 2 | **Contexte complet et idéalement chiffré** | Y a-t-il des chiffres ? Des faits vérifiables ? |
+| 3 | **Exprimer clairement** la problématique | Se comprend-elle à la première lecture ? |
+| 4 | **Traiter un seul élément** | Y a-t-il une seule question, ou trois ? |
+| 5 | **Spécifique à une entreprise** | L'entreprise est-elle nommée ? |
+| 6 | **Précise** | Peut-on savoir quand on y a répondu ? |
+| 7 | **Utilisable par les outils** | Le desk, le quali et le quanti peuvent-ils y répondre ? |
+| 8 | **Pertinente** pour le domaine de recherche ou le client | Est-ce que ça sert vraiment quelqu'un ? |
+
+**Deux contrôles de plus :**
 
 - [ ] C'est une question, avec un point d'interrogation.
 - [ ] Elle est ouverte : on ne peut pas y répondre par oui ou non.
-- [ ] Elle porte sur **un** problème, pas trois.
 - [ ] Elle ne contient pas déjà la réponse. « Comment lancer ma campagne Instagram ? » n'est
       pas une problématique : c'est une solution déguisée.
+
+### Le piège du plan de recherche déguisé
+
+| ❌ Ce n'est pas une problématique | ✅ C'est une problématique |
+|---|---|
+| « Étudier le marché de Waterloo et sa zone de chalandise pour voir l'intérêt d'y installer le showroom. » | « Comment toucher le public à haut pouvoir d'achat habitant Lasne, La Hulpe et Waterloo ? » |
+
+La première décrit **ce qu'on va faire**. La seconde pose **ce qu'on cherche à savoir**.
 
 **Fais valider la question par l'utilisateur avant d'aller plus loin.**
 
@@ -101,6 +121,31 @@ Beaucoup de problématiques touchent les deux. Dans ce cas, dis laquelle domine,
 | **Quantitative** | Interroge un grand nombre de consommateurs | Pour **généraliser**, mesurer, valider une hypothèse | Sondage, chiffres, pourcentages |
 
 En général : le qualitatif ouvre, le quantitatif confirme.
+
+### Le tableau méthodologique
+
+C'est le pont entre la problématique et l'étude. Une ligne par élément du plan marketing à
+creuser.
+
+| Élément du plan marketing | Objectifs d'étude | Types d'étude | Sources / répondants |
+|---|---|---|---|
+| Micro-environnement, concurrents | Identifier les concurrents directs et indirects. Pour chacun : notoriété, P-promotion, P-prix, gamme, localisation. | Desk | Sites concurrents, avis en ligne, store-check |
+| Marché — demande | Mesurer le volume et la valeur sur 3 ans | Desk | Fédération professionnelle, statistiques |
+| Cible — motivations | Comprendre pourquoi la cible n'achète pas | Quali | 8 entretiens individuels |
+
+**L'erreur numéro un : écrire un objectif marketing au lieu d'un objectif d'étude.**
+
+| ❌ Objectif marketing | ✅ Objectif d'étude |
+|---|---|
+| « Utiliser Facebook pour toucher les adolescents » | « Analyser les moyens de communication utilisés par les adolescents » |
+| « Baisser les prix de 10 % » | « Mesurer le prix maximum que la cible accepte de payer » |
+
+**Le test :** un objectif d'étude commence par un verbe de **recherche** — analyser, identifier,
+mesurer, comprendre, comparer. Jamais par un verbe d'**action** — utiliser, lancer, créer,
+augmenter.
+
+**Pour construire le tableau complet, préparer les entretiens et monter le questionnaire, passe
+à `marketing-etude-de-marche`.**
 
 ### Le livrable de cette étape
 
